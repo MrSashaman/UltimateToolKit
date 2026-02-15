@@ -1,0 +1,16 @@
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\bin\Debug\net9.0-windows\UltimateToolKit.exe
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\bin\Debug\net9.0-windows\UltimateToolKit.deps.json
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\bin\Debug\net9.0-windows\UltimateToolKit.runtimeconfig.json
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\bin\Debug\net9.0-windows\UltimateToolKit.dll
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\bin\Debug\net9.0-windows\UltimateToolKit.pdb
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\UltimateToolKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\UltimateToolKit.AssemblyInfoInputs.cache
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\UltimateToolKit.AssemblyInfo.cs
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\UltimateToolKit.csproj.CoreCompileInputs.cache
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\UltimateToolKit.dll
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\refint\UltimateToolKit.dll
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\UltimateToolKit.pdb
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\UltimateToolKit.genruntimeconfig.cache
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\ref\UltimateToolKit.dll
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\UltimateToolKit.Form1.resources
+C:\Users\Alexsandr Pimonov\RiderProjects\UltimateToolKit\UltimateToolKit\obj\Debug\net9.0-windows\UltimateToolKit.csproj.GenerateResource.cache
