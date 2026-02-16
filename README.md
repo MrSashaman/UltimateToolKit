@@ -1,7 +1,7 @@
 # UltimateToolKit
 
 Простой ToolKit на C# (Windows Forms)
-Версия - 0.1
+Версия - 1
 
 Функции:
 - Калькулятор
